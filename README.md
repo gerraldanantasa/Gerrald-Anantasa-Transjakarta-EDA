@@ -1,8 +1,5 @@
 # Transjakarta EDA - Data-Driven Strategies for Enhancing TransJakarta’s Service and Revenue
 This article provides data-driven insights to optimize TransJakarta's service efficiency, revenue growth, and customer satisfaction.
-
-# TransJakarta Data Analysis Summary
-
 ## Objective:
 This analysis aims to explore TransJakarta's ridership and financial trends to improve service delivery, customer satisfaction, and profitability. Key questions focus on identifying peak periods, understanding demographics, and evaluating the effectiveness of promotions.
 
